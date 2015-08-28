@@ -1,0 +1,23 @@
+# EagleList possible feature list
+
+
+### Purpose
+
+EagleList is a desktop application where FGCU students can list and trade books and various other favors and items. 
+Our focus is mainly on books however. 
+
+### Basic needs:
+
+- User Authentication (bcrypt on server and client)
+- Create Listing  (UI on client, store on server)
+- User Sign up    (UI flow on client, create user info on server)
+- View list of books/offers (UI on client, feed by server route)
+
+### Good ideas:
+
+- Book search by CRN
+- Book search by ISBN
+- Trying to figure out ElasticSearch
+
+### Open questions:
+- How do we connect users? (Criagslist has users connect via email)
