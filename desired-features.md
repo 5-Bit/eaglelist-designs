@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Desired Features"
-permalink: "/features.html"
+title: "Design"
+permalink: "/design.html"
 ---
 
 
