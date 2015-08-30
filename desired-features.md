@@ -3,12 +3,10 @@ layout: post
 title: "Desired Features"
 ---
 
-# EagleList possible feature list
-
 
 ### Purpose
 
-EagleList is a desktop application where FGCU students can list and trade books and various other favors and items. 
+EagleLists is a desktop application where FGCU students can list and trade books and various other items. 
 Our focus is mainly on books however. 
 
 ### Basic needs:
