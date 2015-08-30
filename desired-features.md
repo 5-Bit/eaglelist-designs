@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Desired Features"
+---
+
 # EagleList possible feature list
 
 
